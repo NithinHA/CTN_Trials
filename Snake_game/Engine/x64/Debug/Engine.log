@@ -1,0 +1,17 @@
+﻿  compilation header save succeeded; see D:\PROJECTS\C++\CTN_Trials\Snake_game\Engine\FramebufferPS.shh
+  compilation header save succeeded; see D:\PROJECTS\C++\CTN_Trials\Snake_game\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  Food.cpp
+  FoodSpawner.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snake.cpp
+  SpriteCodex.cpp
+D:\PROJECTS\C++\CTN_Trials\Snake_game\Engine\Location.h(18): warning C4172: returning address of local variable or temporary: result
+D:\PROJECTS\C++\CTN_Trials\Snake_game\Engine\FoodSpawner.cpp(40): warning C4172: returning address of local variable or temporary: foodLocation
+  Engine.vcxproj -> D:\PROJECTS\C++\CTN_Trials\Snake_game\x64\Debug\Engine.exe
